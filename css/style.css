@@ -1,0 +1,20 @@
+body{
+    height: 95vh;
+    width: 95vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: RED;
+    background-color: black;
+    background-image: url(../img/snake.jpg);
+    margin-left: 500px;
+  
+}
+
+#snake{
+    width: 1250px;
+    height: 90%;
+   
+}
+   
